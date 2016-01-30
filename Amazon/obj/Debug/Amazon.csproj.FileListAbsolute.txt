@@ -1,0 +1,6 @@
+C:\VimalKumar\Practice\HackerRank\Amazon\bin\Debug\Amazon.exe.config
+C:\VimalKumar\Practice\HackerRank\Amazon\bin\Debug\Amazon.exe
+C:\VimalKumar\Practice\HackerRank\Amazon\bin\Debug\Amazon.pdb
+C:\VimalKumar\Practice\HackerRank\Amazon\obj\Debug\Amazon.exe
+C:\VimalKumar\Practice\HackerRank\Amazon\obj\Debug\Amazon.pdb
+C:\VimalKumar\Practice\HackerRank\Amazon\obj\Debug\Amazon.csprojResolveAssemblyReference.cache

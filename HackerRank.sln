@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{74384DEF-5569-4580-A0FE-3A0733560C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{5A7641DA-AADF-41AF-A04E-F41CFD2D083D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinePDf", "CombinePDf\CombinePDf.csproj", "{CC607859-9405-40E5-979D-8F0047A7AC80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74384DEF-5569-4580-A0FE-3A0733560C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74384DEF-5569-4580-A0FE-3A0733560C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74384DEF-5569-4580-A0FE-3A0733560C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74384DEF-5569-4580-A0FE-3A0733560C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7641DA-AADF-41AF-A04E-F41CFD2D083D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7641DA-AADF-41AF-A04E-F41CFD2D083D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7641DA-AADF-41AF-A04E-F41CFD2D083D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7641DA-AADF-41AF-A04E-F41CFD2D083D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC607859-9405-40E5-979D-8F0047A7AC80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC607859-9405-40E5-979D-8F0047A7AC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC607859-9405-40E5-979D-8F0047A7AC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC607859-9405-40E5-979D-8F0047A7AC80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
